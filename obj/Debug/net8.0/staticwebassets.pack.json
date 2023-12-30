@@ -1,0 +1,81 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/smendoza1/Documents/MovieReview/obj/Debug/net8.0/scopedcss/projectbundle/MovieReview.bundle.scp.css",
+      "PackagePath": "staticwebassets/MovieReview.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/smendoza1/Documents/MovieReview/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/Users/smendoza1/Documents/MovieReview/wwwroot/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/smendoza1/Documents/MovieReview/wwwroot/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/smendoza1/Documents/MovieReview/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "/Users/smendoza1/Documents/MovieReview/wwwroot/images/movies/Godfather.png",
+      "PackagePath": "staticwebassets/images/movies/Godfather.png"
+    },
+    {
+      "Id": "/Users/smendoza1/Documents/MovieReview/wwwroot/images/movies/Highlander.png",
+      "PackagePath": "staticwebassets/images/movies/Highlander.png"
+    },
+    {
+      "Id": "/Users/smendoza1/Documents/MovieReview/wwwroot/images/movies/Highlander2.png",
+      "PackagePath": "staticwebassets/images/movies/Highlander2.png"
+    },
+    {
+      "Id": "/Users/smendoza1/Documents/MovieReview/wwwroot/images/movies/LastOfTheMohicans.png",
+      "PackagePath": "staticwebassets/images/movies/LastOfTheMohicans.png"
+    },
+    {
+      "Id": "/Users/smendoza1/Documents/MovieReview/wwwroot/images/movies/PoliceAcademy6.png",
+      "PackagePath": "staticwebassets/images/movies/PoliceAcademy6.png"
+    },
+    {
+      "Id": "/Users/smendoza1/Documents/MovieReview/wwwroot/images/movies/RearWindow.png",
+      "PackagePath": "staticwebassets/images/movies/RearWindow.png"
+    },
+    {
+      "Id": "/Users/smendoza1/Documents/MovieReview/wwwroot/images/movies/RoadHouse.png",
+      "PackagePath": "staticwebassets/images/movies/RoadHouse.png"
+    },
+    {
+      "Id": "/Users/smendoza1/Documents/MovieReview/wwwroot/images/movies/Shawshank.png",
+      "PackagePath": "staticwebassets/images/movies/Shawshank.png"
+    },
+    {
+      "Id": "/Users/smendoza1/Documents/MovieReview/wwwroot/images/movies/StarTreck4.png",
+      "PackagePath": "staticwebassets/images/movies/StarTreck4.png"
+    },
+    {
+      "Id": "/Users/smendoza1/Documents/MovieReview/wwwroot/images/movies/Superman4.png",
+      "PackagePath": "staticwebassets/images/movies/Superman4.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.MovieReview.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.MovieReview.props",
+      "PackagePath": "build\\MovieReview.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MovieReview.props",
+      "PackagePath": "buildMultiTargeting\\MovieReview.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MovieReview.props",
+      "PackagePath": "buildTransitive\\MovieReview.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
